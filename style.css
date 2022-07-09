@@ -11,3 +11,11 @@
   --fonte-secundaria: 'IBM Plex Sans', sans-serif;
 }
 
+.bg-azul {
+  background-color: var(--azul);  
+}
+
+.cabecalho {
+  padding: 3em;
+}
+
